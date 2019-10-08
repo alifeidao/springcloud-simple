@@ -4,3 +4,10 @@ springcloud简书
    
 0 springcloud简介  https://blog.csdn.net/afei8080/article/details/102367672
 
+1 springcloud微服务协调者Eureka https://blog.csdn.net/afei8080/article/details/102369836
+
+2 springcloud负载均衡 https://blog.csdn.net/afei8080/article/details/102370391
+
+3 springcloud断路器-hystrix https://blog.csdn.net/afei8080/article/details/102371235
+
+
